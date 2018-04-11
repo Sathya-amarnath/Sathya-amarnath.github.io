@@ -1,0 +1,12 @@
+--- 
+- 
+  company: "Re Vera Services"
+  duration: "Jan, 2018 — Present"
+  position: "Full stack developer intern"
+  summary: "<ul class=\"resume-item-list\"><li>Full Stack Development using and creating RESTful interfaces utilizing python, flask, HTML/CSS, MongoDB, Javascript (jQuery).</li><li>Review current code base and modify interface with MongoDB database.</li><li>Developing clean, UX-driven Javascript applications in Ubuntu/Linux based environment for use in Windows based environment.</li></ul>"
+- 
+  company: "Wipro Technologies"
+  duration: "Aug, 2015 — Oct, 2016"
+  position: "Software Engineer in Test"
+  summary: "<ul class=\"resume-item-list\"><li>Acquired Hands-On experience in Selenium IDE, Selenium Web Driver, Junit, TestNG.</li><li>Used Postman application in chrome and performed backend web service testing using XML and JSON.</li><li>Generated test cases based on requirements, created test data required for testing, set up test beds-hardware, software and networks</li><li>Created 50 user stories in CA Agile. Communicated the issues in the application to the developer and resolved those issues</li><li>Performed automation testing using Java, reported defects to the stakeholders, created test logs and reported test results to the stakeholders</li></ul>"
+

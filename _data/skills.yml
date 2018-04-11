@@ -1,0 +1,14 @@
+--- 
+- 
+  description: "Java, Python, Javascript, Angular JS, Angular 4, React JS, Android, jQuery, Bootstrap, HTML, CSS, C, C++, Ionic 3, RESTful API using Express with nodejs, Git."
+  skill_name: "Programming Languages / Scripting languages / Technologies"
+- 
+  description: "SQL, MongoDB, Oracle Database, IBM DB2, Windows, Linux"
+  skill_name: "Databases and Operating Systems"
+- 
+  description: "Microsoft Visual Studio, Visual Studio code, Jupyter Notebook, Spyder, Netbeans, Eclipse, Notepad++"
+  skill_name: Environments
+- 
+  description: "HP Quality Center, QTP, Selenium, Junit, TestNG"
+  skill_name: "Testing tools/ technologies"
+
