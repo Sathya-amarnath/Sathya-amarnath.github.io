@@ -1,20 +1,5 @@
 --- 
 - 
-  description: "<ul><li>Web application to facilitate influencers to advertise the products in social media. This application also maintains influencer’s information</li><li>Used HTML, CSS, Bootstrap, Javascript, AngularJS to design web pages for the application</li></ul>"
-  duration: "2017 Jan — 2017 May"
-  project: "Statusphere - Software Engineering Project - Web Application Development"
-  role: "Front end developer"
-- 
-  description: "<ul><li>Developed a prototype to detect the quality of drinking water without manual intervention and to send message to the ward inspector if the quality failed to meet the standards</li><li>Used Java programming to implement the automated quality detection system.</li></ul>"
-  duration: "2013 — 2015"
-  project: "Automated Quality Monitoring System for Metro Water - Final Year Undergrad Project"
-  role: "java programmer"
-- 
-  description: "Implemented the following algorithms- <ul><li>Linear Regression </li> <li>Logistic Regression </li> <li>Artificial Neural Networks </li> <li> Kernelized Ridge Regression </li> <li> K means clustering and gaussian mixture model clustering </li></ul>"
-  duration: "2017 aug — 2017 dec"
-  project: "Machine Learning"
-  role: "python programmer"
-- 
   description: "<ul><li>Implemented Fake News Detection using Random Forest, XGBoost classifier in python and calculated the performance in terms of F1 score.</li></ul>"
   duration: "2018 jan — 2018 april"
   project: "Natural Language Processing project - Fake news Detection"
@@ -24,4 +9,18 @@
   duration: "2018 jan — 2018 april"
   project: "Hybrid Mobile Application Development"
   role: "Full stack application developer"
-
+- 
+  description: "Implemented the following algorithms- <ul><li>Linear Regression </li> <li>Logistic Regression </li> <li>Artificial Neural Networks </li> <li> Kernelized Ridge Regression </li> <li> K means clustering and gaussian mixture model clustering </li></ul>"
+  duration: "2017 aug — 2017 dec"
+  project: "Machine Learning"
+  role: "python programmer"
+- 
+  description: "<ul><li>Web application to facilitate influencers to advertise the products in social media. This application also maintains influencer’s information</li><li>Used HTML, CSS, Bootstrap, Javascript, AngularJS to design web pages for the application</li></ul>"
+  duration: "2017 Jan — 2017 May"
+  project: "Statusphere - Software Engineering Project - Web Application Development"
+  role: "Front end developer"
+- 
+  description: "<ul><li>Developed a prototype to detect the quality of drinking water without manual intervention and to send message to the ward inspector if the quality failed to meet the standards</li><li>Used Java programming to implement the automated quality detection system.</li></ul>"
+  duration: "2013 — 2015"
+  project: "Automated Quality Monitoring System for Metro Water - Final Year Undergrad Project"
+  role: "java programmer"
