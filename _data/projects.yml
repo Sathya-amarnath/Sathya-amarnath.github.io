@@ -8,7 +8,7 @@
   description: "<ul><li>A simple Android application which creates a series of additions</li><li>To play this game with a time limit of 30 seconds</li><li>I implemented the concept of grid layout, timers, hiding and showing of features, etc</li><li>The game can be played again after 30 seconds are over and it also displays final result, with number of correct and wrong answers</li></ul>"
   duration: "2018 may — 2018 june"
   project: "Android Application Development"
-  role: "Developed a simple game application with series of questions of adding two numbers upto 30 seconds and displaying the final result of correct answers"
+  role: "Developed a simple game application with series of questions of adding two numbers upto 30 seconds and displaying the final result of correct and wrong answers"
 - 
   description: "<ul><li>Implemented Fake News Detection using Random Forest, XGBoost classifier in python and calculated the performance in terms of F1 score.</li></ul>"
   duration: "2018 jan — 2018 april"
